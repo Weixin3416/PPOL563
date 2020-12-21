@@ -55,6 +55,8 @@ The above visualization shows that females and low-educated people have on avera
 
 <p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard7?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '550' scrolling='No'></iframe>  
   
+The bar charts below also indicate that people with the poor hearing capacity and eyesight are more likely to have poor psychological health, compared with those who have very good hearing and vision. Although these problems are not fatal in contrast to other diseases, they are strongly affecting the quality of later life. Different kinds of body pains also have a negative impact on people’s mental health. The average mental health is interactive with year, rural/urban and gender. In each subgroup, we can see the same trend of deteriorative mental health when hearing or eyesight is getting poor or body pain is becoming more serious.
+  
 ## Conclusion
 
 
