@@ -25,7 +25,7 @@ This visualization is interactive with year. Every point represents the average 
 
 ## East vs. West
 
-<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard2?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '720' height = '540' scrolling='No'></iframe>
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard2?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '720' height = '540' scrolling='No'></iframe></p>
   
 The visualization above has the averages of the Mental Health Index and Functioning Index concerning GDP per capita of each province in China. We can select year 2015 or year 2018 as well. The size of circle represents the scale of GDP per capita of each province. We can see there is a significant disparity between east and west China. The elderly people in Shanghai and Beijing, and Zhejiang, which are the most developed areas in China, have on average the best mental health, while in less developed provinces in the west, mental health problems are much more severe. This also indicates that mental health status in China is still significantly related to economic factors.
 
@@ -33,27 +33,27 @@ The visualization above has the averages of the Mental Health Index and Function
 
 Women and low-educated people are more likely to develop mental health problems.
 
-<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard3?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '550' scrolling='No'></iframe>
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard3?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '550' scrolling='No'></iframe></p>
 
 The above visualization shows that females and low-educated people have on average poorer mental health than other groups. We can also select the years, where the results are similar.
   
 ## Are the elderly people in China satisfied with their life?
   
-<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard4?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '600' scrolling='No'></iframe>
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard4?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '600' scrolling='No'></iframe></p>
 
 ## Other Factors: Further Exploration
 
 ### _Chronic Diseases_
 
-<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard6?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '580' scrolling='No'></iframe>
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard6?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '580' scrolling='No'></iframe></p>
   
 ### _Social Activities_
   
-<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard5?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '570' scrolling='No'></iframe>
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard5?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '570' scrolling='No'></iframe></p>
   
 ### _Other Physical Problems: Hearing, Eyesight and Body Pain_
 
-<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard7?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '550' scrolling='No'></iframe>  
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard7?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '550' scrolling='No'></iframe></p> 
   
 The bar charts below also indicate that people with the poor hearing capacity and eyesight are more likely to have poor psychological health, compared with those who have very good hearing and vision. Although these problems are not fatal in contrast to other diseases, they are strongly affecting the quality of later life. Different kinds of body pains also have a negative impact on people’s mental health. The average mental health is interactive with year, rural/urban and gender. In each subgroup, we can see the same trend of deteriorative mental health when hearing or eyesight is getting poor or body pain is becoming more serious.
   
