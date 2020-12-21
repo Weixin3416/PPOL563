@@ -18,10 +18,12 @@ CHARLS is a nationwide survey that began to conduct baseline interviews and data
 ## Visualization Tool
 All of the visualizations in this project is made by **Tableau** and are available at **_Tableau Public_**. You can download **_Tableau Public_** from this [link](https://public.tableau.com/) for free.
 
-## In China, elderly people 
+## Rural vs. Urban 
 <p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard1?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '720' height = '540' scrolling='No'></iframe>
 
-paragraph1
+This visualization is interactive with year. Every point represents the average mental health index and functioning index of a community (each community is randomly selected based on the survey design). We can select the subset data of 2015 or 2018. The disparity between the rural and the urban in mental health for the elderly people are similar.
+
+## East vs. West
 
 <p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard2?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '720' height = '540' scrolling='No'></iframe>
 
