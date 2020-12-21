@@ -41,6 +41,8 @@ The above visualization shows that females and low-educated people have on avera
   
 <p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard4?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '600' scrolling='No'></iframe></p>
 
+The survey has asked questions about whether the subject was satisfied with his/her children, marrirage, health, and the whole life. Similar as the results shown above, females are more likely to show low-level satisfaction of these four questions compared to males. For example, about three quarters of those whose response was 'Not Very Satisfied' were women. You can select the questions and years to examine the results.
+
 ## Other Factors: Further Exploration
 
 ### _Chronic Diseases_
@@ -50,6 +52,8 @@ The above visualization shows that females and low-educated people have on avera
 ### _Social Activities_
   
 <p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard5?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '570' scrolling='No'></iframe></p>
+
+This interacitve visualization has pointed out an alarming fact that over one-third of the elderly people in China may be socially isolated (they rarely participate in any social acivities). And a large group of people aged over 50 need to take care of other people (their spouses or children in most cases). This could also have a negative impact on mental health for the elderly people.
   
 ### _Other Physical Problems: Hearing, Eyesight and Body Pain_
 
